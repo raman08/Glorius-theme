@@ -1,14 +1,15 @@
 ## glorious - a lightdm webkit2 theme
 
-[![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/manilarome/the-glorious-lightdm-webkit2-theme/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/manilarome/the-glorious-lightdm-webkit2-theme/pulls) [![HitCount](http://hits.dwyl.com/manilarome/the-glorious-lightdm-webkit2-theme.svg)](http://hits.dwyl.com/manilarome/the-glorious-lightdm-webkit2-theme) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0812167ef9954b74ac23f7c1bfeb3764)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manilarome/the-glorious-lightdm-webkit2-theme&amp;utm_campaign=Badge_Grade)
+[![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/manilarome/the-glorious-lightdm-webkit2-theme/commits/master) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/manilarome/the-glorious-lightdm-webkit2-theme/pulls)
 
-A sleek, modern, and glorified lightdm webkit2 theme
+#### This theme is a copy of manilarome `lightdm-webkit2-theme-glorious` theme with some slight modification.
 
-## [Live Demo](https://manilarome.github.io/lightdm-webkit2-theme-glorious)
 
-### Demo password: `toor`
+### [Live Demo](https://raman08.github.io/Glorius-theme)
 
-<p align='center'><img alt='glorious' src='glorious.gif'/><br/><i>glorious - a lightdm webkit 2 theme</i></p>
+#### Demo password: `toor`
+
+<p align='center'><img alt='glorious' src='lockscreen_1.png'/><img alt='glorious' src='lockscreen_2.png'/><br/><i>glorious - a lightdm webkit 2 theme</i></p>
 
 ### Dependencies
 
@@ -108,9 +109,9 @@ There are two clock modes available - `24-hour` and `12-hour`. Switch between cl
 + Add more background images by putting your wallpapers/images in `/usr/share/backgrounds/`.
 + Non-image and directory inside `/usr/share/backgrounds/` will cause an error! You will likely encounter this if you installed a package (for example `archlinux-wallpaper` that includes `AUTHORS` file).
 + Set your profile image in system settings or by using `mugshot`.
-+ Missing DE/WM logo? Submit a [pull request](https://github.com/manilarome/lightdm-webkit2-theme-glorious/pulls)!
++ Missing DE/WM logo? Submit a [pull request](https://github.com/raman08/Glorius-theme/pulls)!
 + Translations are not yet supported. PR's are welcome!
 
 ### Credits
 
-<span>Background image by <a href="https://unsplash.com/@korpa?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jr Korpa</a> on <a href="https://unsplash.com/s/photos/cherry-blossoms-purple?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+Thanks `manilarome` for their original theme. [Click here](https://github.com/manilarome/lightdm-webkit2-theme-glorious) for the original theme.
